@@ -2,7 +2,7 @@
 
 This repository will contain a simple project collection of React-native
 List Branch / Project
- - Branch: DacastPlayer
-   ReactNative Project with Webview to run video from Dacast through webview.
+ - Branch: DacastPlayer:
+   Project with Webview to run video from Dacast through webview.
    
  - 
